@@ -130,6 +130,7 @@ alias rn='ranger'
 alias vi='nvim'
 alias vif='nvim ~/.config/fish/config.fish'
 alias via='nvim ~/.config/alacritty/alacritty.yml'
+alias vit='nvim ~/tod.txt'
 alias top='bpytop'
 ##################################
 alias dir='dir --color=auto'
